@@ -1,0 +1,3 @@
+[submodule "BlueAXI"]
+	path = BlueAXI
+	url = git@github.com:esa-tu-darmstadt/BlueAXI.git

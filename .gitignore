@@ -1,3 +1,5 @@
+build
+bsim
 dist
 dist-*
 cabal-dev
